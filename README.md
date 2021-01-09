@@ -7,3 +7,7 @@ pytz
 python-dateutil
 lxml
 yfinance
+
+Chart Requirements :
+matplotlib
+seaborn
